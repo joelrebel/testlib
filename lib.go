@@ -1,4 +1,4 @@
-package "libtest"
+package libtest
 
 import "fmt"
 
